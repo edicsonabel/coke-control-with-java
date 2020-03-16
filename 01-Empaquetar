@@ -1,0 +1,1 @@
+jar cvfm ProyectoFinal.jar MANIFEST.MF *.class *assets/

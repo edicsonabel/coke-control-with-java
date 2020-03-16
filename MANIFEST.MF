@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Edicson Abel
+Main-Class: Bienvenida
+X-COMMENT: Proyecto final del curso de Java
